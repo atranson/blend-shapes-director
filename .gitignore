@@ -1,0 +1,61 @@
+Builds/
+# ===================== #
+# Documentation related #
+# ===================== #
+Doc/
+Doxyfile
+Documents/classes.dia.autosave
+Documents/classes.dia~
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Bin/
+Builds/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+App/
+UWP/
+/WindowsStoreApp
+project.json
+project.lock.json
+weightsOutput.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.obj
+*.tlog
+*.log
+*.idb
+*.opendb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
